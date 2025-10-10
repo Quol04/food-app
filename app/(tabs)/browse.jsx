@@ -4,12 +4,12 @@ import { SafeAreaView } from "react-native-safe-area-context";
 
 
 
-const Favorite = ()=>{
+const Browse = ()=>{
     return(
         <SafeAreaView>
-            <Text>Favorite</Text>
+            <Text>Browse</Text>
         </SafeAreaView>
     )
 }
 
-export default Favorite;
+export default Browse;

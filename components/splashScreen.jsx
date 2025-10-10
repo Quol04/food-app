@@ -3,6 +3,7 @@ import { StyleSheet } from "react-native"
 import { Image } from "react-native"
 
 const SplashScreen = () => {
+  
   return (
     <SafeAreaView style={styles.container}>
       <Image
