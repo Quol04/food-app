@@ -2,6 +2,7 @@
 import { Text,View } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
 import { Link } from "expo-router";
+import { Image } from "react-native";
 
 
 
@@ -18,6 +19,7 @@ const Home = ()=>{
             <Link href="/">
               <Text>Get Started</Text>
              </Link>
+           
 
         </SafeAreaView>
     )
